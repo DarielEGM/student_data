@@ -7,4 +7,5 @@ The objective of the application is to enter the student's data through the cons
 ## ✨**Main View**✨
 
 Here is an example of what the app looks like when it runs.
+
 ![image](https://github.com/DarielEGM/student_data/assets/123778387/a39f7454-e0b4-4942-804f-6191f9cffe7e)
